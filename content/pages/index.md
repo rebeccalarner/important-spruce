@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Mary Larner's Portfolio
-  description: The preview of the Personal theme
+  description: Personal theme
   extra:
     - name: 'og:type'
       value: website
